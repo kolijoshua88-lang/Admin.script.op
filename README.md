@@ -1,4 +1,4 @@
-# 🔥 ALL IN ONE ADMIN UI (WITH FULL SFX)
+# ALL IN ONE ADMIN UI
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
